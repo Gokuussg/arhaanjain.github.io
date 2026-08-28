@@ -6,10 +6,28 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    {{ content }}
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="site-name" href="{{ '/' | relative_url }}">Arhaan Jain</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {% include navigation.html %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="container page-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span>© {{ 'now' | date: '%Y' }} Arhaan Jain</span>
+        {% include footer.html %}
+      </div>
+    </footer>
   </body>
 </html>
