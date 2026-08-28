@@ -17,12 +17,6 @@ Conducted R&amp;D on a wearable upper-limb assistive orthosis using EMG-based mu
 
 Programmed a robotic arm and machine-learning model to automate a manual process, saving 25% of processing time and reducing ergonomic risks. Co-developed a computer-vision web application for engine visual inspection that reduced manpower hours by 50%. Contributed to a factory digital-twin initiative using Leica BLK360 3D scanners and point-cloud processing.
 
-## Jyoti CNC Automation Ltd.
-
-**Application Engineering Intern · India · May 2024 – Jul 2024**
-
-Automated CNC cycle-time estimation through database integration and built a Flask web application to calculate cycle times for a range of components.
-
 ## Community and leadership
 
 ### NUS College Overseas Community Service

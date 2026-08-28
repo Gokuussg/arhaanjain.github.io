@@ -7,11 +7,7 @@ title: About
 
 ## Arhaan Jain
 
-I am a mechanical engineer and robotics researcher interested in building intelligent machines that interact with the physical world.
-
-My work combines mechanical design, control systems, simulation, and machine learning. I have worked on hierarchical reinforcement learning for loco-manipulation, sim-to-real transfer, soft robotic actuation, wearable robotics, and electronic textiles.
-
-I enjoy taking projects from an initial idea through experiments, hardware integration, and reproducible documentation.
+Insert later
 
 ## Technical areas
 
@@ -23,4 +19,4 @@ I enjoy taking projects from an initial idea through experiments, hardware integ
 
 ## Contact
 
-[arhaanjain3@gmail.com](mailto:arhaanjain3@gmail.com) · [GitHub](https://github.com/Gokuussg)
+[arhaanjain3@gmail.com](mailto:arhaanjain3@gmail.com) · [GitHub](https://github.com/Gokuussg) · [LinkedIn](https://www.linkedin.com/in/arhaanjain/)
