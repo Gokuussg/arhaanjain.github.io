@@ -1,3 +1,10 @@
+title: Arhaan Jain
+description: The personal website of Arhaan Jain.
+url: ""
+baseurl: ""
+
+author:
+  name: Arhaan Jain
+  email: ""
+
 theme: jekyll-theme-minimal
-title: Arhaan's homepage
-description: Bookmark this to keep an eye on my project updates!
